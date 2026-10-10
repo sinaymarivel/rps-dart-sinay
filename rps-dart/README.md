@@ -68,3 +68,7 @@ rps-dart-yourlastname
 ```
 
 Make the repository public and submit the repository link.
+
+### Testing
+
+The game was tested with different player names and moves. It checks valid and invalid inputs, determines the round winner, updates the score, and displays the final winner.
