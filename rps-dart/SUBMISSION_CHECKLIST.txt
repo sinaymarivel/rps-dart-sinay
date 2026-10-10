@@ -1,4 +1,4 @@
-IT 120 RPS Submission Checklist
+RPS Submission Checklist
 
 [ ] rock_paper_scissors.dart
 [ ] README.md
@@ -13,3 +13,4 @@ IT 120 RPS Submission Checklist
 [ ] Make repository public
 [ ] Make at least 3 commits
 [ ] Submit GitHub repository link
+[ ] Submit the public GitHub repository URL to the instructor
