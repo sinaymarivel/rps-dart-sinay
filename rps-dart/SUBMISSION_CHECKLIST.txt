@@ -1,0 +1,15 @@
+IT 120 RPS Submission Checklist
+
+[ ] rock_paper_scissors.dart
+[ ] README.md
+[ ] Program runs with: dart rock_paper_scissors.dart
+[ ] Test Player 1 and Player 2 names
+[ ] Test valid and invalid moves
+[ ] Test rock/paper/scissors winner logic
+[ ] Test draw
+[ ] Test play again
+[ ] Test final score
+[ ] Create GitHub repository
+[ ] Make repository public
+[ ] Make at least 3 commits
+[ ] Submit GitHub repository link
