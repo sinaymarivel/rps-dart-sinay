@@ -2,7 +2,7 @@
 ## Two-Player Rock, Paper, Scissors in Dart
 
 **Name:** Marivel Charisse  
-**Course/Year/Section:** __________________________
+**Course/Year/Section:** BSIT-3 ICLX3
 
 ### Description
 
