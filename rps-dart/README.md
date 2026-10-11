@@ -1,7 +1,7 @@
 # IT 120 Laboratory Activity
 ## Two-Player Rock, Paper, Scissors in Dart
 
-**Name:** Marivel Charisse  
+**Name:** Marivel Charisse Sinay
 **Course/Year/Section:** BSIT-3 ICLX3
 
 ### Description
@@ -61,10 +61,10 @@ git commit -m "Add README and improve game flow"
 
 ### GitHub Repository
 
-Repository name:
+My Repository name:
 
 ```text
-rps-dart-yourlastname
+rps-dart-sinay
 ```
 
 Make the repository public and submit the repository link.
